@@ -53,3 +53,7 @@ Further Exploration
 * .ipynb only for preprocessing, for other stuff .py files
 
 Contact email: miiagkov123456@gmail.com
+
+Appropriate folder structure after running .ipynb:
+
+![изображение](https://github.com/Tintanaa/petproj_email_ham_spam_detection/assets/99679370/e8249794-8ae3-4184-acf0-a2c9b2b8d924)
